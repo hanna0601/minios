@@ -204,7 +204,7 @@ make
 
 ---
 
-## Skills Demonstrated
+## Knowledge used 
 
 - **C systems programming** — manual memory management, pointer arithmetic, x86-64 register manipulation
 - **Data structures** — intrusive linked queues, multi-level page tables, bitmaps

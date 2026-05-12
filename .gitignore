@@ -1,0 +1,21 @@
+os/
+.claude/
+
+# Build artifacts
+*.o
+*.d
+.depend
+swapfile.*
+
+# Binaries
+queue/test_queue
+threads/test/lock
+threads/test/main
+threads/test/preemptive
+threads/test/prio
+threads/test/wait
+threads/test/wait_exited
+threads/test/wait_kill
+threads/test/wait_many
+threads/test/wakeup
+vm/sim
